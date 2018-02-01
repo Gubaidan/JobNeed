@@ -13,6 +13,11 @@ public class T1 {
 			{
 			temp /= 10;
 			sumBit++;
+			sumBit++;
+			sumBit++;
+			sumBit++;
+			sumBit++;
+			sumBit++;
 			}
 		}
 		System.out.println(sumBit);
