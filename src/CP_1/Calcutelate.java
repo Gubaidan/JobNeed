@@ -9,6 +9,7 @@ public class Calcutelate {
         Stack<Character> st=new Stack<>();   //初始化一个运算符栈  
         String postfix=new String();   //用于储存后缀表达式  
         int spaceNum = 0;
+        int spaceNum = 0;
         for(int i=0;expression!=null&&i<expression.length();i++){  
             char c=expression.charAt(i);  
             if(' '!=c){  
