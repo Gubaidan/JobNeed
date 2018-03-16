@@ -9,6 +9,7 @@ public class recursionBinarySearch {
 	}
 	
 	public static int recursionBinarySearch(int[] nums,int key, int low, int high) {
+	public static int recursionBinarySearch(int[] nums,int key, int low, int high) {
 		if(low > high || key < nums[low] || key > nums[high]) return -1;
 		int middle = (low + high) / 2;
 		if(nums[middle] > key){
