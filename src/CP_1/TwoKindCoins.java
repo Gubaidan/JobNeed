@@ -9,6 +9,7 @@ public class TwoKindCoins {
 		Scanner scan = new Scanner(System.in);
 		while(scan.hasNext()){ 
 			String string = scan.nextLine();
+			String string = scan.nextLine();
 			int n1 = Integer.parseInt(string.split(" ")[0]);
 			int n2 = Integer.parseInt(string.split(" ")[1]);
 			int m = Integer.parseInt(string.split(" ")[2]);
