@@ -9,6 +9,7 @@ import java.net.Socket;
 
 public class Client {
 	public static int port = 8080;
+	public static int port = 8080;
 	public static String address = "172.0.0.1";
 
 	public static void main(String[] args) {
