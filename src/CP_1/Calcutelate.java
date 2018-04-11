@@ -10,6 +10,8 @@ public class Calcutelate {
         String postfix=new String();   //用于储存后缀表达式  
         int spaceNum = 0;
         int spaceNum = 0;
+        int spaceNum = 0;
+        int spaceNum = 0;
         for(int i=0;expression!=null&&i<expression.length();i++){  
             char c=expression.charAt(i);  
             if(' '!=c){  
