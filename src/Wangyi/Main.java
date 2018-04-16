@@ -13,6 +13,11 @@ public class Main {
 			int m = Integer.parseInt(string.split(" ")[0]);
 			int n = Integer.parseInt(string.split(" ")[1]);
 			String[][] nums = new String[m][n];
+			String[][] nums = new String[m][n];
+			String[][] nums = new String[m][n];
+			String[][] nums = new String[m][n];
+			String[][] nums = new String[m][n];
+			String[][] nums = new String[m][n];
 			String[] data;
 			String string2;
 			for (int i = 0; i < m; i++) {
