@@ -11,6 +11,9 @@ public class hu {
 		while (scan.hasNext()) {
 			String[] start = scan.nextLine().split(" ");
 			String[] end = scan.nextLine().split(" ");
+			String[] end = scan.nextLine().split(" ");
+			String[] end = scan.nextLine().split(" ");
+			String[] end = scan.nextLine().split(" ");
 			String rc = scan.nextLine();
 			int row = Integer.parseInt(rc.split(" ")[0]);
 			int col = Integer.parseInt(rc.split(" ")[1]);
